@@ -1,7 +1,7 @@
 # Kata: String Calculator
 
 
-## Requisitor
+## Requisitos
 
 1. Se a string for vazia, retornar zero.
 1. Deve somar números delimitados por `,` ou `\n`.
