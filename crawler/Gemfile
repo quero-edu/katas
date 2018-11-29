@@ -1,0 +1,8 @@
+source 'https://rubygems.org' do
+  gem 'http'
+  gem 'nokogiri'
+
+  group :test do
+    gem 'rspec'
+  end
+end
